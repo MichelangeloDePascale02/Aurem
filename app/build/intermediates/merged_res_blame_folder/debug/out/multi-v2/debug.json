@@ -1,0 +1,101 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "119,57",
+                        "endColumns": "58,60",
+                        "endOffsets": "173,113"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,60",
+                        "endOffsets": "109,170"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "440"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "846",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1220"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "12,13,11,4,6,9,3,5,8,7,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "577,620,542,122,228,390,59,176,340,288,468",
+                        "endColumns": "41,119,33,52,58,76,61,50,48,50,72",
+                        "endOffsets": "614,735,571,170,282,462,116,222,384,334,536"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "175,217,337,371,424,483,560,622,673,722,773",
+                        "endColumns": "41,119,33,52,58,76,61,50,48,50,72",
+                        "endOffsets": "212,332,366,419,478,555,617,668,717,768,841"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\build\\intermediates\\res\\merged\\debug\\values-it-rIT_values-it-rIT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values-it-rIT\\colors.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "119,57",
+                        "endColumns": "58,60",
+                        "endOffsets": "173,113"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,60",
+                        "endOffsets": "109,170"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values-it-rIT\\strings.xml",
+                    "from": {
+                        "startLines": "10,11,9,2,7,5,3,6,4,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "561,605,526,57,359,236,111,298,174,448",
+                        "endColumns": "42,123,33,52,87,60,61,59,60,76",
+                        "endOffsets": "599,724,555,105,442,292,168,353,230,520"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "175,218,342,376,429,517,578,640,700,761",
+                        "endColumns": "42,123,33,52,87,60,61,59,60,76",
+                        "endOffsets": "213,337,371,424,512,573,635,695,756,833"
+                    }
+                }
+            ]
+        }
+    ]
+}

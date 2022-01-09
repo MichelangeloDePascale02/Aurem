@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuremReloadedEQ</string>
+    <string name="loadPreset">Carica Preimpostazione</string>
+    <string name="savePreset">Salva Preimpostazione</string>
+    <string name="hello">Ciao Mondo, AuremActivity!</string>
+    <string name="newPreset">Nuova Preimpostazione</string>
+    <string name="enterPreset">Inserisci il nome per la nuova preimpostazione:</string>
+    <string name="tapToReturn">Tocca per tornare in AuremReloadedEQ</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Annulla</string>
+    <string name="Credits">Creato in origine da WangCrystal. Rimaneggiato e aggiornato da MichelangeloDePascale02.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AuremActivity!</string>
+    <string name="app_name">AuremReloadedEQ</string>
+    <string name="loadPreset">Load Preset</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="savePreset">Save Preset</string>
+    <string name="newPreset">New Preset</string>
+    <string name="enterPreset">Please enter a name for your preset:</string>
+    <string name="tapToReturn">Tap to return to AuremReloadedEQ</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Credits">Originally created by WangCrystal.Remodeled and updated by MichelangeloDePascale02.</string>
+
+</resources>

@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cs2114.aurem"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="10" />
+7-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:7:5-44
+7-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:7:15-41
+8
+9    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+9-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:9:5-80
+9-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:9:22-77
+10    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+10-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:10:5-81
+10-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:10:22-78
+11
+12    <application
+12-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:12:5-32:19
+13        android:debuggable="true"
+14        android:icon="@drawable/ic_launcher"
+14-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:13:9-45
+15        android:label="@string/app_name"
+15-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:14:9-41
+16        android:testOnly="true" >
+17        <activity
+17-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:15:9-25:20
+18            android:name="cs2114.aurem.AuremActivity"
+18-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:15:19-48
+19            android:label="@string/app_name"
+19-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:16:13-45
+20            android:launchMode="singleTask"
+20-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:17:13-44
+21            android:screenOrientation="portrait"
+21-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:19:13-49
+22            android:theme="@android:style/Theme.Black.NoTitleBar" >
+22-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:18:13-66
+23            <intent-filter>
+23-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:20:13-24:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:21:17-69
+24-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:21:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:23:17-77
+26-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:23:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <service android:name="cs2114.aurem.EqualizerService" >
+30-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:27:9-28:19
+30-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:27:18-50
+31        </service>
+32
+33        <activity android:name="cs2114.aurem.PresetListView" >
+33-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:30:9-31:20
+33-->C:\Users\Starfighter\Documents\GitHub\Aurem\app\src\main\AndroidManifest.xml:30:19-48
+34        </activity>
+35    </application>
+36
+37</manifest>

@@ -1,73 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:orientation="vertical" >
-
-    <cs2114.aurem.EqualizerView
-        android:id="@+id/equalizerView"
-        android:layout_width="wrap_content"
-        android:layout_height="186dp"
-        android:layout_weight="25"
-        android:padding="0dp" />
-
-    <LinearLayout
-        android:id="@+id/linearLayout1"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="75" >
-
-        <cs2114.aurem.LabelView
-            android:id="@+id/labelView"
-            android:layout_width="40dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1" />
-
-        <LinearLayout
-            android:id="@+id/linearLayout2"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="9"
-            android:orientation="vertical" >
-
-            <SeekBar
-                android:id="@+id/seekBar0"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingBottom="40dp"
-                android:paddingTop="10dp"
-                android:paddingRight="20dp" />
-
-            <SeekBar
-                android:id="@+id/seekBar1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingBottom="40dp" 
-                android:paddingRight="20dp" />
-
-            <SeekBar
-                android:id="@+id/seekBar2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingBottom="40dp" 
-                android:paddingRight="20dp" />
-
-            <SeekBar
-                android:id="@+id/seekBar3"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingBottom="40dp" 
-                android:paddingRight="20dp" />
-
-            <SeekBar
-                android:id="@+id/seekBar4"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingBottom="0dp"
-                android:paddingRight="20dp" />
-
-        </LinearLayout>
-
-    </LinearLayout>
-
-</LinearLayout>

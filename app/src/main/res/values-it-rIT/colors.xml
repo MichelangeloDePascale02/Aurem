@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color type="color" name="inactiveColor">#F39C12</color>
+    <color type="color" name="activeColor">#3498DB</color>
+</resources>
+
