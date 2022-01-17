@@ -21,7 +21,7 @@
             android:layout_height="match_parent"
             android:layout_gravity="left|center_vertical"
             android:layout_weight="10"
-            android:background="#3498DB"
+            android:background="#0D47A1"
             android:clickable="false"
             android:focusable="false"
             android:gravity="center"
@@ -31,7 +31,7 @@
             android:paddingLeft="5dp"
             android:text="@string/app_name"
             android:textColor="#FFFFFF"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:textStyle="bold"
             android:typeface="normal" />
 
@@ -40,7 +40,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="70"
-            android:background="#3498DB"
+            android:background="#0D47A1"
             android:drawableLeft="@drawable/ic_information_outline"
             android:includeFontPadding="false"
             android:maxWidth="40dp"

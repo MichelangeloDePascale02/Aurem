@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it-rIT\\values-it-rIT.xml",
+            "outputFile": "C:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it-rIT\\values-it-rIT.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values-it-rIT\\colors.xml",
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\src\\main\\res\\values-it-rIT\\colors.xml",
                     "from": {
-                        "startLines": "3,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "119,57",
-                        "endColumns": "58,60",
-                        "endOffsets": "173,113"
+                        "startLines": "-1,2",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,57",
+                        "endColumns": "-1,60",
+                        "endOffsets": "-1,113"
                     },
                     "to": {
                         "startLines": "2,3",
@@ -21,13 +21,11 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values-it-rIT\\strings.xml",
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\src\\main\\res\\values-it-rIT\\strings.xml",
                     "from": {
-                        "startLines": "10,11,9,2,7,5,3,6,4,8",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "561,605,526,57,359,236,111,298,174,448",
-                        "endColumns": "42,123,33,52,87,60,61,59,60,76",
-                        "endOffsets": "599,724,555,105,442,292,168,353,230,520"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13",

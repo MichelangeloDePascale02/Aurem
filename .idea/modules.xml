@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aurem.iml" filepath="$PROJECT_DIR$/.idea/modules/Aurem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aurem.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aurem.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuremReloadedEQ.iml" filepath="$PROJECT_DIR$/.idea/modules/AuremReloadedEQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AuremReloadedEQ.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AuremReloadedEQ.app.iml" />
     </modules>
   </component>
 </project>

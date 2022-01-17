@@ -1,4 +1,4 @@
-#Sun Jan 09 19:33:00 CET 2022
-base.0=C\:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Tue Jan 18 00:09:45 CET 2022
+base.0=C\:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

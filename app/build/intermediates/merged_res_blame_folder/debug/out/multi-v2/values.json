@@ -1,34 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "3,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "119,57",
-                        "endColumns": "58,60",
-                        "endOffsets": "173,113"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,114",
-                        "endColumns": "58,60",
-                        "endOffsets": "109,170"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "175,217,337,371,424,483,560,622,673,722,773",
+                        "endColumns": "41,119,33,52,58,76,61,50,48,50,72",
+                        "endOffsets": "212,332,366,419,478,555,617,668,717,768,841"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "59",
-                        "endLines": "10",
-                        "endColumns": "12",
-                        "endOffsets": "440"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "15",
@@ -40,20 +35,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\Aurem\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Starfighter\\Documents\\GitHub\\AuremReloadedEQ\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "12,13,11,4,6,9,3,5,8,7,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "577,620,542,122,228,390,59,176,340,288,468",
-                        "endColumns": "41,119,33,52,58,76,61,50,48,50,72",
-                        "endOffsets": "614,735,571,170,282,462,116,222,384,334,536"
+                        "startLines": "-1,2",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,57",
+                        "endColumns": "-1,60",
+                        "endOffsets": "-1,113"
                     },
                     "to": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "175,217,337,371,424,483,560,622,673,722,773",
-                        "endColumns": "41,119,33,52,58,76,61,50,48,50,72",
-                        "endOffsets": "212,332,366,419,478,555,617,668,717,768,841"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,60",
+                        "endOffsets": "109,170"
                     }
                 }
             ]
